@@ -4,6 +4,8 @@
 
 <img width="1905" height="1143" alt="Screenshot" src="https://github.com/user-attachments/assets/75803809-50f9-429f-8069-8a0cdbf6341b" />
 
+<img width="1905" height="1489" alt="Screenshot" src="https://github.com/user-attachments/assets/16af3986-1a0c-4857-a4c2-55d73ffdbc2f" />
+
 
 Guess Llama is a web-based guessing game inspired by Guess Who. It uses a
 Node.js server and a React/Vite browser client. The server manages game
