@@ -2,6 +2,7 @@
 
 <img width="1905" height="1489" alt="Screenshot" src="https://github.com/user-attachments/assets/8eed8b2d-29bc-4d8e-aa9d-d58630ab4074" />
 
+<img width="1905" height="1143" alt="Screenshot" src="https://github.com/user-attachments/assets/75803809-50f9-429f-8069-8a0cdbf6341b" />
 
 
 Guess Llama is a web-based guessing game inspired by Guess Who. It uses a
